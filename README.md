@@ -7,4 +7,4 @@ This small project was the prework for joining General Assembly online cohort fo
 - Papyrus beats Lapis
 - Scalpellus beats Papyrus
 
-Button click calls a javascript function to pick a choice for the player. Choice for the computer was already picked at random on button click. Then compare answers of the player and computer. If its a tie, print "It's a tie!" and include the choices of player and computer. The winner also gets printed in a message as well as the choices of the player and computer.
+Button click calls a javascript function to pick a choice for the player. Choice for the computer was already picked at random on button click. Then compare answers of the player and computer. If its a tie, print "It's a tie!" and include the choices of player and computer. If player wins, pring "Player Wins!" along with the choice of the two. Same process if computer wins.
